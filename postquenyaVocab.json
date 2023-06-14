@@ -1,0 +1,430 @@
+{ "quenyaA" : [ 
+
+"á (variant a), imperative particle, combined with a form of the verb similar to the infinitive", 
+"airita-, verb \"to hallow\" (past tense airitánë)",
+"aiwë, noun \"bird\" (primarily referring to small birds)",
+"alafasta, adj \"tidy, orderly\"",
+"alasta-, vb \"be merry, rejoice\"",
+"alassë, noun \"joy\", \"alda, noun \"tree\"",
+"allu-, verb \"to wash\"",
+"alta, adjective \"great\" (= big, referring to physical size only)",
+"alya, adjective \"rich\"",
+"Ambar, noun \"(the) world\" (apparently treated as a proper name)",
+"ambo, noun \"hill\"",
+"an, conjunction and preposition \"for\" (only used as conjunction in this course)",
+"an-, superlative prefix",
+"Anar, noun \"(the) Sun\" (apparently treated as a proper name)",
+"anca, noun \"jaw\"",
+"ando, noun \"gate\"",
+"ango (angu-), noun \"snake\"",
+"anna, noun \"gift\"",
+"anquantaina, adj \"complete, thoroughly filled,\"",
+"anta- verb \"to give\", irregular past tense ánë (though the regular form antanë is perhaps also possible)",
+"anto, noun \"mouth\"",
+"anwa, adjective \"real, actual, true\"",
+"apa, preposition \"after\"",
+"ar, conjunction \"and\"",
+"aran, noun \"king\"",
+"arwa, adjective \"possessing\", \"in control of\", \"having\", followed by genitive",
+"Atan, noun \"Man\" (generic: Mortal Man, \"human\" as opposed to Elf; contrast the non-generic term nér)",
+"atta, cardinal \"two\"; attëa, ordinal \"second\" (replacing older tatya, atya)",
+"aupenya, adj \"complete, without lack\"",
+"aqua, adverb \"full, completely\"",
+"aurë, noun \"day\" (the daylight period, not a full 24-hour cycle)",
+"auta- \"to leave, to go/pass away\", past tense oantë and perfect oantië about physically leaving one place and going to another, but past tense vánë and perfect avánier about disappearing or dying off.",
+"áva \"don't!\", the imperative particle á + the negation -va; the form áva is combined with a form of the verb similar to the infinitive to express a negative command (e.g. áva carë \"don't do [it]!\")"
+
+],
+
+"quenyaC" : [
+
+"cainen, cardinal \"ten\"",
+"caita-, verb \"lie\" (lie horizontally, not \"tell a lie\")",
+"cala, noun \"light\"",
+"calima, adjective \"bright\"",
+"canta, cardinal \"four\"; cantëa, ordinal \"fourth\"",
+"cambie, n \"profit, gain, intake, income\"",
+"camya, vb \"contain, hold\"",
+"cap-, verb \"to jump\"",
+"car-, verb \"to make, to do\"",
+"car, n \"act, an action\"",
+"carmë, noun \"art\"",
+"carnë, adjective \"red\" (also past tense of the verb car-)",
+"cariquetta, n \"verb\"",
+"cemnasse, n \"earthenware, earthenware pot or jar\"",
+"cen- verb \"to see\"",
+"cenda-, verb \"to read\"",
+"cenenca, adj \"blind, sightless\"",
+"cellóra, adj \"blind, sightless\"",
+"ciminqua, adj \"attentive, heedful\"",
+"cilya, noun \"cleft, gorge\"",
+"cirya, noun \"ship\"",
+"coa, noun \"house\"",
+"corna, adjective \"round\"",
+"cú, noun \"crescent, arc\""
+
+],
+
+"quenyaE" : [
+
+"etsen-, vb let \"loose, release, forget\"",
+"ëa, verb \"is\" = \"exists\", past tense engë, future tense perhaps euva",
+"ehtë (perhaps with stem ehti-), noun \"spear\"",
+"Elda, noun \"Elf\"",
+"elen, noun \"star\"",
+"elmë, emphatic pronoun \"we\", exclusive. (The form elmë is not directly attested in published material, but is extrapolated from the corresponding ending -lmë. This emphatic pronoun for exclusive \"we\" is attested as emmë, but the relevant texts were written before Tolkien changed the corresponding ending from -mmë to -lmë.)",
+"elyë, emphatic pronoun \"you, thou\" ",
+"elvë, emphatic pronoun \"we\", inclusive. (The form elvë is not directly attested in published material, but is extrapolated from the corresponding ending -lvë.)",
+"engë, see ëa",
+"engwë, noun \"thing\"",
+"enquë, cardinal \"six\"; enquëa, ordinal \"sixth\"",
+"enta, demonstrative \"that [yonder]\", \"[the one] over there\" (of time referring to some future entity)",
+"envinyata-, verb \"to renew\"",
+"equë, verb \"say(s), said\" (tenseless verb introducing quotations)",
+"et, preposition \"out, forth\" (when followed by ablative: \"out of\")",
+"euva, see ëa"
+
+],
+
+"quenyaF" : [ 
+
+"farëa, adj \"enough\"",
+"farya-, verb \"to suffice, to be enough\", past tense farnë",
+"felminqua, adj \"passionate, full of feeling\"",
+"feuna, adj \"abhorred, aghast\"",
+"fir-, verb \"to die, to expire\"",
+"firin, adjective \"dead\" (not to be confused with firin \"I die\", the 1st person aorist of the verb fir-)",
+"Formen, noun \"(the) North\" (apparently treated as a proper name)",
+"forya, adjective \"right\" (of direction)"
+
+],
+
+"quenyaH" : [  
+
+"haira, adjective \"far, remote\"",
+"halla, adjective \"tall\"",
+"harma, noun \"treasure\"",
+"harna-, verb \"to wound\"",
+"harya-, verb \"to possess, have\"",
+"hen (hend-) (henta-), noun \"eye, to eye\"",
+"hencalcat, dual n \"eye-glasses, spectacles\"",
+"helta-, vb \"strip, bare, peel\"",
+"hir-, verb \"find\"",
+"hlar-, verb \"to hear\"",
+"hlapu-, verb \"to blow\""
+"hollo, n \"cock, cockerel, rooster\"",
+"holye, n \"hen\"",
+"hó, noun \"owl\"",
+"hórista(-), vb and n \"1. cite, quote 2. citation, quote\"",
+"hosta-, verb \"to assemble, gather\"",
+"hrávë, noun \"flesh\"",
+"hrívë, noun \"winter\"",
+"hroa, noun \"body\"",
+"hwinda, n and adj \"1. a fool 2. foolish, giddy, confused\"",
+"hwinima, adj \"confusing\"",
+"hwinta-, vb tr. \"1. mix, stir 2. confuse\"",
+"hwinwaiwa, n \"whirlwind\"",
+"Hyarmen, noun \"(the) South\" (apparently treated as a proper name)",
+"hyarya, adjective \"left\" (not \"left behind\", but the opposite of \"right\")" 
+
+],
+
+"quenyaI" : [
+
+"i, 1) article \"the\"; 2) relative pronoun \"who, which\" ",
+"ilya, noun/adjective \"all, every\". Before a singular noun, ilya means \"every\", e.g. ilya Elda \"every Elf\", but ilya occurring by itself would rather mean \"all\". Before a plural noun, ilya also signifies \"all\"; in this position it is inflected like an adjective, thus assuming the form ilyë, e.g. ilyë tier \"all paths\" (Namárië) ",
+"imbë, preposition \"between\" " ,
+"inyë, emphatic pronoun \"I\" " ,
+"írë, conjunction \"when\" (not interrogative)" ,
+"Isil, noun \"(the) Moon\" (apparently treated as a proper name)" ,
+"ista-, verb \"to know\", irregular past tense sintë. Before an infinitive, this verb is used for \"can, is able\" in the sense of \"knows [how] to\"."
+
+],
+
+
+"quenyaL" : [
+
+"lá, 1) negation \"not\", 2) preposition \"beyond\", also used in comparison",
+"laita-, verb \"to bless, praise\"",
+"lala-, verb \"to laugh\"",
+"laman (lamn-), noun \"animal\" (the stem-form may also simply be laman-)",
+"lambë \"tongue\" (= language; \"tongue\" as a body-part is lamba)",
+"lanta-, verb \"to fall\"",
+"lanta, noun \"a fall\"",
+"lapa-, vb \"jump, hop\"",
+"larca, adj \"swift, rapid\"",
+"le, independent pronoun \"you\", probably unchanged when used as object. (In some versions of Quenya, le covers both singular and plural \"you\", but Tolkien may also have introduced lye as a distinctly singular form, presumably leaving le distinctly plural.)", 
+"lelya-, verb \"to go, proceed, travel\", irregular past tense lendë, perfect [e]lendië",
+"lempë, cardinal \"five\"; lempëa, ordinal \"fifth\"",
+"lendë, past tense of lelya, q.v.",
+"lerta-, verb \"can, be able\" in the sense of \"be allowed to\" (English often uses \"may\" in this sense)",
+"lerya-, verb \"to release, (set) free, let go\"",
+"leucë, adj \"sick\"",
+"lia, adverb \"many\"",
+"lië, noun \"people\" (ethnic group or race)",
+"limba, adverb \"many\"",
+"limpë, noun \"wine\" (within Tolkien's mythos also some special drink of the Elves or of the Valar)",
+"lil, adverb \"more\"",
+"lilda, adverb \"more\"",
+"linda-, verb \"to sing\"",
+"linta, adjective \"swift\" (only attested in plural form: lintë)",
+"lir- verb \"to sing\"",
+"lírë, noun \"a song\"",
+"lómë (lómi-), noun \"night\"",
+"lutu-, verb \"to float\"",
+"lú, noun \"moment\""
+
+],
+
+"quenyaM" : [
+
+"ma, possible interrogative particle",
+"má, noun \"hand\"",
+"mára, adverb \"good\"",
+"máhis, n \"maize, either sweet corn or field corn\"",
+"macil, noun \"sword\"",
+"mahta-, verb \"to fight\"",
+"mal, conjunction \"but\"",
+"mallë, noun \"road, street\"",
+"malta, noun \"gold\"",
+"man, interrogative pronoun \"who?\"",
+"mana, interrogative pronoun \"what?\" (according to one interpretation of the sentence in which this word occurs)",
+"manca, adverb \"few\"",
+"manë, adverb \"good\"",
+"manen, interrogative \"how?\"",
+"mangwa, n \"article for trading, goods\"",
+"mapa-, verb \"to grasp, seize\"",
+"mar-, verb \"to dwell, abide\"; to \"live\" somewhere in the sense of dwelling there",
+"marin, adj \"ripe\"",
+"mára, adjective \"good\" (in the sense of \"fit, useful\", not of moral qualities)",
+"mat-, verb \"to eat\"",
+"me, independent pronoun \"we\" (exclusive, cf. the ending -lmë), probably unchanged when used as object \"us\". Often occurring with case endings (e.g. dative men \"for us\").",
+"meluquetya, n \"sweet-speaking person, flatterer\"",
+"mel-, verb \"to love\" (as friend)",
+"melmë, noun \"love\"",
+"Menel, noun \"the firmament, sky, heaven, the heavens\" (apparently treated as a proper name)",
+"menta-, verb \"to send\"",
+"mer-, verb \"to wish, want\" ",
+"metya-, verb \"to end\" = \"put an end to\"",
+"micë, adverb \"few\"",
+"mindon, noun \"(great) tower\"",
+"minë, cardinal \"one\"; minya, ordinal \"first\"",
+"minquë, cardinal \"eleven\"",
+"minya, ordinal \"first\" (cf. minë)",
+"mir, preposition \"into\"",
+"mitsa, adverb \"less\"",
+"mis, adverb \"less\"",
+"mól, noun \"thrall, slave\"",
+"morilúpe, n \"blackbird\"",
+"morë, adjective \"black\"",
+"mornië, noun \"darkness\"",
+"muilë, noun \"secrecy\"",
+"munta, n \"zero, 0\""
+
+],
+
+"quenyaN" : [
+
+
+"ná, verb \"is\" (nar \"are\"), future tense nauva \"will be\"; see also né.",
+"nallamya-, vb \"echo, sound back, reverberate\"",
+"namba, noun \"hammer\"",
+"Nauco, noun \"Dwarf\"",
+"nauva, see ná",
+"né has been hinted to be the past tense of ná \"is\", hence \"was\"",
+"neldë, cardinal \"three\"; nelya (later also neldëa), ordinal \"third\"",
+"nér (ner-), noun \"man\" (adult male of any sentient race)",
+"nertë, cardinal \"nine\"; nertëa, ordinal \"ninth\"",
+"ni, independent pronoun \"I\", often occurring with case endings (e.g. dative nin \"for me\"). Object form nye \"me\"",
+"nilmë, noun \"friendship\"",
+"ninquë, adjective \"white\"",
+"nís (niss-) \"woman\" (adult female of any sentient race)",
+"noa, noun \"idea\"",
+"nómë, noun \"place\"",
+"nórë, noun \"land\" (associated with a particular people)",
+"nu, preposition \"under\"",
+"nulda, adjective \"secret\"",
+"Númen, noun \"(the) West\" (apparently treated as a proper name)",
+"núra, adjective \"deep\"",
+"nurra, verb \"grumble\"",
+"nurrulë, noun \"a grumble\"",
+"nurta-, verb \"to hide\"",
+"nurtalë, noun \"a hiding\"",
+"nye, object pronoun \"me\" (cf. ni)"
+
+],
+
+"quenyaO" : [
+
+
+"oantë, oantië, past and perfect forms of auta, q.v.",
+"ohtar, noun \"warrior\"",
+"olda, adverb \"more\"",
+"oldo, adverb \"more\"",
+"olë, adverb \"more\"",
+"olya, adverb \"much\"",
+"ondo, noun \"stone\" (as material); also used = \"(a) rock\"",
+"oranar, n \"noon, midday\"",
+"or- (also ora-), impersonal verb \"to urge, to impel\" (used with a dative form to express \"[someone] feels moved [to do something]\").",
+"or, preposition \"over, above\"",
+"oron (oront-), noun \"mountain\"",
+"orta-, verb \"to rise\", also used transitively: \"to raise, lift up\"",
+"osto, noun \"(fortified) city\" (used in this sense throughout this course, but the word may also refer to an actual fortress)",
+"otso, cardinal \"seven\"; otsëa, ordinal \"seventh\"",
+"otsolametta, n \"weekend\""
+
+],
+
+"quenyaÓ" : [ 
+
+"ófelme, n \"compassion, sympathy\"",
+"óla-, impersonal verb \"to dream\"",
+"ósat-, vb \"share\""
+
+],
+
+"quenyaP" : [
+
+"palampa, n \"drum\"",
+"palu-, verb \"to expand\"",
+"parma, noun \"book\"",
+"pas-, vb \"slip, slide, glide\"",
+"pé, noun \"lip\", nominative dual peu",
+"pella, postposition \"beyond\"",
+"penno, n \"poor man\"",
+"peren, adj \"patient\"",
+"perië, noun \"a halving\"",
+"perya- verb \"halve\"",
+"peryalë, noun \"a half\"",
+"pol- \"to be (physically) able to\", normally translated \"can\" (referring to physical ability: not \"can\" meaning \"know how to\", which is rather ista-, or \"can\" meaning \"may\" = \"is permitted to\", which is rather lerta-)",
+"polda, adjective \"(physically) strong, burly\"",
+"pollo, n \"ram\"",
+"pusta-, verb \"to stop\""
+
+],
+
+"quenyaQ" : [
+
+"qualin, adj \"dead\"",
+"quen, indefinite pronoun \"one\", \"someone\"",
+"querda, n \"turn (e.g. in a game)\"",
+"quet-, verb \"to speak, say\"",
+"quentalë, noun \"a story\""
+
+],
+
+"quenyaR" : [ 
+
+
+"rá (ráv-), noun \"lion\", rac-, verb \"to break\", ramba, noun \"wall\"",
+"raica, adj \"bent\"",
+"ranco (rancu-), noun \"arm\", rappa, n \"rope\", rassë \"horn\" (especially on living animal, but also used of mountains)",
+"rasta, cardinal \"twelve\" (extrapolated from the stem RÁSAT, which is all Tolkien provided; he did not list the actual derivatives)",
+"rimba, adjective \"numerous\" (in this course used to translate \"many\", appearing in the plural form rimbë when connecting with plural nouns)",
+"rocco, noun \"horse\" (swift horse for riding)",
+"roita-, verb \"to pursue\"", 
+"rotta-, vb \"bore\" (a hole or tunnel)", 
+"Rómen, noun \"(the) East\" (apparently treated as a proper name)", 
+"ruc- verb \"to feel fear or horror\", also used for \"to fear\" and then said to be constructed with \"from\" of the object feared (presumably meaning that what would be the direct object in English appears in the ablative case in Quenya)", 
+"ruhta-, verb \"to terrify, to scare\"", 
+"russambos, n \"robin\"",
+"ré, noun \"day, of 24 hours, etc\""
+
+],
+
+"quenyaS" : [
+
+"sa, particle \"that\" introducing nominal clauses (according to a source of somewhat questionable value)",
+"saila, adjective \"wise\"",
+"sambë, noun \"room, chamber\"",
+"sangwa, noun \"poison\"",
+"sar (sard-), noun \"(a small) stone\"",
+"satyasambe, n \"privy, lavatory\"",
+"sel-, vb \"intend, mean, plan\"",
+"seldo, noun \"child\"",
+"seler (sell-), noun \"sister\"",
+"ser-, verb \"to rest\"",
+"sérë, noun \"peace\"",
+"sil-, verb \"shine\" (with white or silver light)",
+"sina, demonstrative \"this\"",
+"sinomë, adverb \"in this place\" or simply \"here\"",
+"sí, adverb \"now\"",
+"sírë, noun \"river\"",
+"suc-, verb \"to drink\"",
+"sú, noun \"rushing (of the wind)\""
+
+
+],
+
+"quenyaT" : [ 
+
+"ta, independent pronoun \"it\" or \"that\", probably unchanged when used as object; the allative tanna may be used = \"thither\". (In another version of Quenya, ta means \"they, them\" with reference to inanimate things. Compare te.)",
+"talan (talam-), noun \"floor\"",
+"tana, demonstrative \"that\"",
+"tári, noun \"queen\"",
+"tasar, noun \"willow\"",
+"tatya, (archaic) ordinal \"second\" (in one late source, Tolkien writes that the Elves eventually replaced tatya with attëa, cf. atta as the word for \"two\")",
+"taura, adjective \"mighty\"",
+"te, independent pronoun \"them\" (according to one source only referring to persons; compare ta).",
+"tec-, verb \"to write\"",
+"telda, adjective \"final\"",
+"tenna, preposition \"until, as far as\"",
+"tercara, adj \"thorough, elaborate, comprehensive\"",
+"ter, preposition \"through\"",
+"tinwerúme, n \"starling\"",
+"tir-, verb \"to watch, guard\"",
+"tiuca, adjective \"thick, fat\"",
+"tolto, cardinal \"eight\"; toltëa, ordinal \"eighth\"",
+"toron (torn-), noun \"brother\"",
+"tul-, verb \"to come\"",
+"tulta-, verb \"to summon\"",
+"tur-, verb \"to govern, control, wield\"",
+"tyal, verb \"to play\"",
+"tyalië, noun \"a play\"",
+"tyalma, n \"toy, plaything\"",
+"tye, independent object pronoun \"you\", \"thee\" (intimate singular)" 
+
+],
+
+"quenyaU" : [
+
+
+"uainëa, ordinal \"tenth\" (according to one late source; presupposes another word than cainen as the cardinal \"ten\")",
+"uru, noun \"fire\"",
+"ussa, n \"incense\""
+
+],
+
+"quenyaV" : [
+
+"vaiwa, noun \"wind\"",
+"vandë, adverb \"well\"",
+"vánë, a past tense of auta, q.v.",
+"vanta-, verb \"to walk\"",
+"vanta, noun \"a walk\"",
+"vanwa is called the \"past participle\" of auta- (q.v.), but it seems so irregular that it may just as well be treated as an independent adjective; the meaning is in any case \"lost, gone, passed, vanished\"",
+"vanya, adjective \"beautiful, fair\"",
+"varya-, verb \"to protect\"",
+"ve, preposition \"as, like\"",
+"vendë, noun \"maiden\"",
+"veru, dual noun \"(married) couple, man and wife, pair of spouses\"",
+"veryande, n \"adventure\"",
+"verya-, verb \"to dare\"",
+"vilwiste, n \"weather\"",
+"virda, n \"outcome, result\""
+
+],
+
+"quenyaY" : [ 
+"ya, relative pronoun \"that, which\", often with case endings; as relative pronoun alternating with i",
+"yaiya- vb \"wail, cry in pain, cry grievously\"",
+"yá, postposition (?) \"ago\" (the English gloss is in any case a postposition)",
+"yána, noun \"holy place, sanctuary\"",
+"yana, demonstrative \"that\" = \"the former\" (of time referring to some past entity)",
+"yondo, noun \"son\"",
+"yulma, noun \"cup\""
+
+
+]
+
+}
